@@ -3,7 +3,7 @@
     <part Name="Armor" AV="0" DV="0" WornOn="Back" />
     <part Name="Render" DisplayName="{{halloween|halloween}} costume" RenderString="]" ColorString="&amp;o" Tile="items/sw_shawl.bmp" DetailColor="y" />
     <part Name="Commerce" Value="18" />
-    <part Name="Description" Short="A shawl woven of fine, scarlet silk." />
+    <part Name="Description" Short="The heady power of transformation, construed in simple cloth." />
     <part Name="Physics" Weight="1" Organic="true" Category="Clothes" />
     <part Name="Springy" Factor="0.9" />
     <part Name="ModDisguise" />
@@ -15,8 +15,7 @@
     <tag Name="GenericInventoryRestockerPopulationTable" Value="Gnarf_Halloween Costumes Inventory" />
     <tag Name="HeroGenericInventoryRestockerPopulationTable" Value="Gnarf_Halloween Costumes Inventory_Legendary" />
     <inventoryobject Blueprint="Gnarf_Halloween Costume" Number="3" />
-    <!-- Todo: descriptions -->
-    <part Name="Description" Short="" />
+    <part Name="Description" Short="Colored fabric obscures and distorts =pronouns.possessive= form. =pronouns.Subjective= =verb:laugh:afterpronoun= joyously, reveling in the charged atmosphere of change." />
     <tag Name="LairAdjectives" Value="halloween" />
     <tag Name="StaticLikeReason" Value="crafting them artisan costumes" />
     <tag Name="StaticHateReason" Value="refusing to craft them artisan costumes" />
